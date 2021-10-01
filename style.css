@@ -25,7 +25,18 @@ body {
 .sec_1 {
     background-image: url("./img/jumbo-bg.png");
     background-repeat: no-repeat;
-    background-position: 50% 0%;
     background-size: cover;
     height: 675px;
+}
+
+.thumb_nail {
+    border: 3px solid #0d6efd;
+    border-radius: 10%;
+    width: 300px;
+}
+
+.thumb_nail2 {
+    border: none;
+    border-radius: 10%;
+    width: 300px;
 }

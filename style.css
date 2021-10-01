@@ -26,6 +26,7 @@ body {
     background-image: url("./img/jumbo-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     height: 675px;
 }
 
@@ -39,4 +40,16 @@ body {
     border: none;
     border-radius: 10%;
     width: 300px;
+}
+
+.grey {
+    color: grey;
+}
+
+.w_50 {
+    height: 600px;
+}
+
+.w_10 {
+    height: 150px;
 }

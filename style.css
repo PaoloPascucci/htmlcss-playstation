@@ -10,6 +10,10 @@ body {
     height: 35px;
 }
 
+.b_logo2 {
+    height: 300px;
+}
+
 .nav-link {
     color: black;
 }
@@ -30,6 +34,15 @@ body {
     height: 675px;
 }
 
+.sec_2 {
+    background-image: url("./img/it-takes-two-hero-banner-desktop.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+    width: 100%;
+}
+
 .thumb_nail {
     border: 3px solid #0d6efd;
     border-radius: 10%;
@@ -40,6 +53,21 @@ body {
     border: none;
     border-radius: 10%;
     width: 300px;
+}
+
+.thumb_nail3 {
+    border: none;
+    padding: 0;
+    margin: 1rem;
+    border-radius: 10%;
+    width: 200px;
+}
+
+.thumb_nail4 {
+    border: none;
+    padding: 0;
+    margin: 1rem;
+    width: 200px;
 }
 
 .grey {

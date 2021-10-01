@@ -1,5 +1,13 @@
-img {
+body {
+    font-family: Arial, sans-serif;
+}
+
+.logo {
     height: 25px;
+}
+
+.b_logo {
+    height: 35px;
 }
 
 .nav-link {
@@ -8,4 +16,16 @@ img {
 
 .bg_dark {
     background-color: black;
+}
+
+.orange_ {
+    background-color: #cd3d0f;
+}
+
+.sec_1 {
+    background-image: url("./img/jumbo-bg.png");
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    background-size: cover;
+    height: 675px;
 }

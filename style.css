@@ -2,6 +2,13 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.site_header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
 .logo {
     height: 25px;
 }
@@ -24,6 +31,10 @@ body {
 
 .bg_grey {
     background-color: #bebcbb;
+}
+
+.bg_night {
+    background-color: #161c3b;
 }
 
 .orange_ {
@@ -104,4 +115,10 @@ body {
 
 #plus {
     color: #0d6efd;
+}
+
+.img_discount {
+    width: 450px;
+    height: 400px;
+    padding: 2rem;
 }

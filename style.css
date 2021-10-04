@@ -81,3 +81,15 @@ body {
 .w_10 {
     height: 150px;
 }
+
+.card {
+    border: none;
+}
+
+.card-img-top {
+    width: 400px;
+}
+
+.card-body {
+    padding: 1rem 4rem;
+}

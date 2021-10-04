@@ -9,6 +9,10 @@ body {
     z-index: 1;
 }
 
+.site_footer {
+    background-color: #00439c;
+}
+
 .logo {
     height: 25px;
 }
@@ -125,4 +129,17 @@ body {
 
 .social {
     width: 150px;
+}
+
+.fa-playstation {
+    color: white;
+}
+
+.logo3 {
+    height: 20px;
+}
+
+.sie {
+    width: 300px;
+    padding: 1rem;
 }
